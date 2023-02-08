@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/miami-dade-college
 venue: "Miami Dade College, Kendall Campus, Department of Life Sciences, Health, and Wellness"
-date: 2021-2022
+date: 2021, 2022
 location: "Miami, Florida"
 ---
 
