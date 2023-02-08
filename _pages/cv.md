@@ -11,30 +11,44 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Engineering Education, University of Florida, 2027 (expected)
+* M.S. in Microbiology and Cell Science, University of Florida, 2020
+* B.S. in Biotechnology, Miami Dade College, 2017
 
-Work experience
+Relevant Work Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2022 - Current: Graduate Research Assistant
+  * University of Florida
+  * Supervisor: Dr. Sindia Rivera-Jimenez
+  * Utilize both quantitative and qualitative research methods to address disparities in the field of engineering
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2021 - May 2022: Adjunct Professor
+  * Miami Dade College
+  * Taught Biology and Microbiology labs and lectures
+
+* October 2020 - April 2021: Voluntary Researcher
+  * University of Florida
+  * Supervisor: Dr. Bryan Kolaczkowski
+  * Utilized the University of FLorida's HiPerGator research computing service to conduct bioinformatic analysis of viral proteins
+
+* May 2019 - October 2020: Science Teacher
+  * Homestead Senior High School
+  * Taught 9-12th grade science (physical science, biology, research, etc.)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Science Education
+  * Curriculum Development
+  * Teaching and Lecturing
+  * Educational Technology
+* Research
+  * Data Analysis
+  * Project Management
+  * Public Speaking
+* Teamwork
+  * Leadership
+  * Team Building and Management
+  * Creative Problem Solving
 
 Publications
 ======
@@ -54,6 +68,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* President of Policy Advocacy in Science and Engineering student organization
