@@ -1,21 +1,21 @@
 ---
 title: "Adjunct Professor"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/miami-dade-college
-venue: "Miami Dade College, Kendall Campus, Department of Life Sciences, Health, and Wellness"
-date: 2021, 2022
+type: "Miami Dade College"
+permalink: /teaching/2021-miami-dade-college
+venue: "Kendall Campus, Department of Life Sciences, Health, and Wellness"
+date: 2021-01-01
 location: "Miami, Florida"
 ---
 
-Courses Taught
+Courses Taught from May 2021 - May 2022
 ======
 * BSC2010: Biology 1 Lecture
 * BSC2010L: Biology 1 Lab
 * MCB2010: Intro. to Microbiology Lecture
 * MCB2010L: Intro. to Microbiology Lab
 
-Duties
+Duties and Responsibilities
 ======
 * Taught lecture & laboratory sections, both in-person & virtually over Blackboard Collaborate Ultra
 * Ensured that students took a holistic view to their academic success
