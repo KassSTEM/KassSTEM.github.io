@@ -17,21 +17,21 @@ Education
 
 Relevant Work Experience
 ======
-* August 2022 - Current: Graduate Research Assistant
+* August 2022 - Current: [Graduate Research Assistant](https://riverajimenez.com/)
   * University of Florida
   * Supervisor: Dr. Sindia Rivera-Jimenez
   * Utilize both quantitative and qualitative research methods to address disparities in the field of engineering
 
-* May 2021 - May 2022: Adjunct Professor
+* May 2021 - May 2022: [Adjunct Professor](https://kassstem.github.io/teaching/2021-miami-dade-college)
   * Miami Dade College
   * Taught Biology and Microbiology labs and lectures
 
 * October 2020 - April 2021: Voluntary Researcher
   * University of Florida
   * Supervisor: Dr. Bryan Kolaczkowski
-  * Utilized the University of FLorida's HiPerGator research computing service to conduct bioinformatic analysis of viral proteins
+  * Utilized the University of Florida's HiPerGator research computing service to conduct bioinformatic analysis of viral proteins
 
-* May 2019 - October 2020: Science Teacher
+* May 2019 - October 2020: [Science Teacher](https://kassstem.github.io/teaching/2019-homestead-senior-high-school)
   * Homestead Senior High School
   * Taught 9-12th grade science (physical science, biology, research, etc.)
   
@@ -49,12 +49,6 @@ Skills
   * Leadership
   * Team Building and Management
   * Creative Problem Solving
-
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and Leadership
 ======
