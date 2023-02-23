@@ -3,7 +3,7 @@ title: "High School Science Teacher"
 collection: teaching
 type: "Homestead Senior High School"
 permalink: /teaching/2019-homestead-senior-high-school
-venue: "Homestead Senior High School, Science Department"
+venue: "Science Department"
 date: 2019-01-01
 location: "Homestead, Florida"
 ---
