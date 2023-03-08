@@ -26,7 +26,7 @@ Relevant Work Experience
   * Miami Dade College
   * Taught Biology and Microbiology labs and lectures
 
-* October 2020 - April 2021: Voluntary Researcher
+* October 2020 - April 2021: [Voluntary Researcher](https://bryankolaczkowski.github.io/)
   * University of Florida
   * Supervisor: Dr. Bryan Kolaczkowski
   * Utilized the University of Florida's HiPerGator research computing service to conduct bioinformatic analysis of viral proteins
