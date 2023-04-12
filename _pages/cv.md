@@ -52,4 +52,4 @@ Skills
   
 Service and Leadership
 ======
-* President of Policy Advocacy in Science and Engineering student organization
+* President of the [Policy Advocacy in Science and Engineering (PASE)](https://linktr.ee/gator_pase) student organization
