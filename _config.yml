@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kass Fernandez"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant"
-  employer         : "University of Florida"
+  bio              : "Graduate Research Assistant at the University of Florida"
   location         : "Gainesville, Florida"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=EwzeybIAAAAJ&hl=en"
   email            : "kfernandez1@ufl.edu"
