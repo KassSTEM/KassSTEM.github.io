@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Kass Fernandez"
   avatar           : "profile.png"
-  bio              : "Graduate Research Assistant at the University of Florida"
+  bio              : "Graduate Research Assistant"
   location         : "Gainesville, Florida"
-  employer         : 
+  employer         : "University of Florida"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=EwzeybIAAAAJ&hl=en"
   email            : "kfernandez1@ufl.edu"
   researchgate     : 
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         : "kassfedz"
-  orcid            : "http://orcid.org/my-orcid?orcid=0000-0003-1101-5219"
+  orcid            : "https://orcid.org/0000-0003-1101-5219"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
