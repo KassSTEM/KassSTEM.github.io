@@ -1,0 +1,13 @@
+---
+title: "Paper Title Number 2"
+collection: publications
+permalink: /publication/2023-07-25-social-responsibility-views.md
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2023-07-25
+venue: 'American Society for Engineering Education'
+paperurl: 'https://peer.asee.org/44235'
+citation: 'Fernandez, K., & Rivera-Jiménez, S. M. (2023, June), <i>Social responsibility views in science and engineering: An exploratory study among engineering undergraduate researchers</i>. Paper presented at 2023 ASEE Annual Conference & Exposition, Baltimore, Maryland. https://peer.asee.org/44235'
+---
+This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.
+
+If the link above isn't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/3ce828de5a3de7723414cb500c5a6a7a16993d5b/files/social-responsibility-views-in-science-and-engineering-an-exploratory-study-among-engineering-undergraduate-researchers.pdf) to download the paper.
