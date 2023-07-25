@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 2"
+title: "Social responsibility views in science and engineering: An exploratory study among engineering undergraduate researchers"
 collection: publications
 permalink: /publication/2023-07-25-social-responsibility-views.md
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.'
 date: 2023-07-25
 venue: 'American Society for Engineering Education'
 paperurl: 'https://peer.asee.org/44235'
