@@ -6,7 +6,7 @@ excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Baltimo
 date: 2023-06-25
 venue: 'American Society for Engineering Education'
 paperurl: 'https://peer.asee.org/43639'
-citation: 'Fernandez, K., & Buhler, A. G., & Rivera-Jiménez, S. M. (2023, June), Methods for Conducting a Scoping Literature Review on Institutional Culture and Transformational Change in Engineering Education. Paper presented at the 2023 ASEE Annual Conference & Exposition, Baltimore, Maryland.'
+citation: 'Fernandez, K., & Buhler, A. G., & Rivera-Jiménez, S. M. (2023, June), <i>Methods for Conducting a Scoping Literature Review on Institutional Culture and Transformational Change in Engineering Education</i>. Paper presented at the 2023 ASEE Annual Conference & Exposition, Baltimore, Maryland.'
 ---
 This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.
 
