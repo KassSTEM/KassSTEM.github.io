@@ -1,7 +1,7 @@
 ---
 title: "Social responsibility views in science and engineering: An exploratory study among engineering undergraduate researchers"
 collection: publications
-permalink: /publication/2023-07-25-social-responsibility-views.md
+permalink: /publication/2023-07-25-social-responsibility-views
 excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.'
 date: 2023-07-25
 venue: 'American Society for Engineering Education'
