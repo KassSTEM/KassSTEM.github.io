@@ -17,3 +17,7 @@ The below is a test for video embedding:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=hvAHet1o9Tk
 " target="_blank"><img src="http://img.youtube.com/vi/hvAHet1o9Tk/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+This is another test (native embed):
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hvAHet1o9Tk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
