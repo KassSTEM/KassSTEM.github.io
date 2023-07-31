@@ -10,11 +10,11 @@ main:
     #url: /teaching/    
     
   - title: "Publications"
-    #url: /publications/
+    url: /publications/
 
   #- title: "Talks"
     #url: /talks/    
 
   - title: "Curriculum Vitae"
-    #url: /cv/
+    url: /cv/
     
