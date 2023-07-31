@@ -1,7 +1,7 @@
 ---
 title: "Methods for Conducting a Scoping Literature Review on Institutional Culture and Transformational Change in Engineering Education"
 collection: publications
-permalink: /publication/2023-07-25-scoping-review-methods
+permalink: /publications/2023-07-25-scoping-review-methods
 excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.'
 date: 2023-06-25
 venue: 'American Society for Engineering Education'
