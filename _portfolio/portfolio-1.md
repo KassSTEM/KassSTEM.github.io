@@ -1,6 +1,6 @@
 ---
 title: "The Inclusive STEM Teaching Project"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/InclusiveSTEMTeachingCert.png' width='500'/>"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/InclusiveSTEMTeachingCert.png' width="500">"
 collection: portfolio
 ---
 
