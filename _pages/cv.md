@@ -29,7 +29,7 @@ Relevant Work Experience
   * Published and presented two papers at the ASEE 2023 Conference and Exposition in Baltimore, Maryland
   * Mentored two undergraduate engineering students through the summer REU and SURF programs
   * Created and facilitated a summer workshop series for undergraduate engineering students
-  * Contributed to two papers presented at the AIChE 2023 Annual Conference in Orlando, Florida
+  * Contributed to two papers presented at the [AIChE 2023 Annual Conference](https://www.aiche.org/proceedings/people/kassandra-fernandez) in Orlando, Florida
 
 * May 2021 - May 2022: [Adjunct Professor](https://kassstem.github.io/teaching/2021-miami-dade-college)
   * Miami Dade College
