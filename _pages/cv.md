@@ -20,13 +20,16 @@ Relevant Work Experience
 * August 2023 - Current: [Graduate Research Assistant](https://mse.ufl.edu/people/name/nancy-ruzycki/)
   * University of Florida
   * Supervisor: Dr. Nancy Ruzycki
-  * Conduct quantitative and qualitative research towards a better understanding of critical mentorship in STEMM
+  * Conducts quantitative and qualitative research towards a better understanding of critical mentorship in STEMM
 
 * August 2022 - July 2023: [Graduate Research Assistant](https://riverajimenez.com/)
   * University of Florida
   * Supervisor: Dr. Sindia Rivera-Jimenez
   * Utilized both quantitative and qualitative research methods to address disparities in the field of engineering
   * Published and presented two papers at the ASEE 2023 Conference and Exposition in Baltimore, Maryland
+  * Mentored two undergraduate engineering students through the summer REU and SURF programs
+  * Created and facilitated a summer workshop series for undergraduate engineering students
+  * Contributed to two papers presented at the AIChE 2023 Annual Conference in Orlando, Florida
 
 * May 2021 - May 2022: [Adjunct Professor](https://kassstem.github.io/teaching/2021-miami-dade-college)
   * Miami Dade College
