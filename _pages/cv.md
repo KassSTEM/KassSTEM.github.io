@@ -26,7 +26,7 @@ Relevant Work Experience
   * University of Florida
   * Supervisor: Dr. Sindia Rivera-Jimenez
   * Utilized both quantitative and qualitative research methods to address disparities in the field of engineering
-  * Published and presented two papers at the ASEE 2023 Conference and Exposition in Baltimore, Maryland
+  * Published and presented two papers at the [ASEE 2023 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Baltimore, Maryland
   * Mentored two undergraduate engineering students through the summer REU and SURF programs
   * Created and facilitated a summer workshop series for undergraduate engineering students
   * Contributed to two papers presented at the [AIChE 2023 Annual Conference](https://www.aiche.org/proceedings/people/kassandra-fernandez) in Orlando, Florida
