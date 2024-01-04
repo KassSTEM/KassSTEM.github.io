@@ -8,7 +8,6 @@ venue: 'American Institute of Chemical Engineers'
 paperurl: 'https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/669180'
 citation: 'Rivera-Jiménez, S. M. & Fernandez, K. (2023, November), <i>Exploring the Use of Natural Language Processing in Developing Problem-Based Learning Scenarios for Social Responsibility in the Curriculum</i>. Research presented at the 2023 AIChE Annual Meeting, Orlando, Florida.'
 ---
-This research was presented at the 2023 AIChE Annual Meeting in Orlando, Florida.
 
 Abstract
 ======
