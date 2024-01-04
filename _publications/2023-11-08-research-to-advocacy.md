@@ -8,7 +8,6 @@ venue: 'American Institute of Chemical Engineers'
 paperurl: 'https://aiche.confex.com/aiche/2023/meetingapp.cgi/Paper/670219'
 citation: 'Fernandez, K. & Rivera-Jiménez, S. M. (2023, November), <i>From Research to Advocacy: A Workshop to Develop the Next Generation of Socially Responsible Scientists and Engineers</i>. Research presented at the 2023 AIChE Annual Meeting, Orlando, Florida.'
 ---
-This research was presented at the 2023 AIChE Annual Meeting in Orlando, Florida.
 
 Abstract
 ======
