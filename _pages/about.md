@@ -14,4 +14,4 @@ Prior to pursuing their PhD, they worked as a science teacher at a Title I schoo
 
 Their first year of PhD research focused on undergraduate student perceptions of social responsibility in STEMM, with special emphasis placed on the importance of science communication & policy advocacy, as well as the intersection of institutional culture & transformational change towards cultivating more inclusive & equitable access for underrepresented minority students in STEMM fields. They are now pivoting to explore critical mentorship & building out a new study.
 
-Outside of their research, Kass is the President of the [Policy Advocacy in Science and Engineering (PASE)](https://linktr.ee/gator_pase) student organization at the University of Florida.
+Outside of their research, Kass is the President of the [Policy Advocacy in Science and Engineering (PASE)](https://gator-pase-links.netlify.app/) student organization at the University of Florida.
