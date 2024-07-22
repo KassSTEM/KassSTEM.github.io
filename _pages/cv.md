@@ -20,7 +20,8 @@ Relevant Work Experience
 * August 2023 - Current: [Graduate Research Assistant](https://mse.ufl.edu/people/name/nancy-ruzycki/)
   * University of Florida
   * Supervisor: Dr. Nancy Ruzycki
-  * Conducts quantitative and qualitative research towards a better understanding of critical mentorship in STEMM
+  * Conducts quantitative and qualitative research towards a better understanding of STEMM mentoring relationships
+  * Published and presented a paper at the [ASEE 2024 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Portland, Oregon
 
 * August 2022 - July 2023: [Graduate Research Assistant](https://riverajimenez.com/)
   * University of Florida
@@ -61,4 +62,4 @@ Skills
   
 Service and Leadership
 ======
-* President of the [Policy Advocacy in Science and Engineering (PASE)](https://linktr.ee/gator_pase) student organization
+* President of the [Policy Advocacy in Science and Engineering (PASE)](https://gator-pase-links.netlify.app/) student organization
