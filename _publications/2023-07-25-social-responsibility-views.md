@@ -5,7 +5,7 @@ permalink: /publications/2023-07-25-social-responsibility-views
 excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.'
 date: 2023-07-25
 venue: 'American Society for Engineering Education'
-paperurl: 'https://peer.asee.org/44235'
+paperurl: 'https://doi.org/10.18260/1-2--44235'
 citation: 'Fernandez, K., & Rivera-Jiménez, S. M. (2023, June), <i>Social responsibility views in science and engineering: An exploratory study among engineering undergraduate researchers</i>. Paper presented at the 2023 ASEE Annual Conference & Exposition, Baltimore, Maryland.'
 ---
 This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.
