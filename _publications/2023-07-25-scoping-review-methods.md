@@ -5,7 +5,7 @@ permalink: /publications/2023-07-25-scoping-review-methods
 excerpt: 'This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.'
 date: 2023-06-25
 venue: 'American Society for Engineering Education'
-paperurl: 'https://peer.asee.org/43639'
+paperurl: 'https://doi.org/10.18260/1-2--43639'
 citation: 'Fernandez, K., & Buhler, A. G., & Rivera-Jiménez, S. M. (2023, June), <i>Methods for Conducting a Scoping Literature Review on Institutional Culture and Transformational Change in Engineering Education</i>. Paper presented at the 2023 ASEE Annual Conference & Exposition, Baltimore, Maryland.'
 ---
 This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.
