@@ -1,15 +1,16 @@
 # main links links (to make visible again, just delete all the #'s)
 main:
-  #- title: "Portfolio"
-    #url: /portfolio/
 
   - title: "Publications"
     url: /publications/
     
   - title: "Certificates"
     url: /certificates/
-        
-  #- title: "Blog Posts"
+    
+  - title: "Portfolio"
+    url: /portfolio/
+
+  #- title: "Blog"
     #url: /year-archive/
     
   #- title: "Teaching"
@@ -20,4 +21,3 @@ main:
 
   - title: "Curriculum Vitae"
     url: /cv/
-    
