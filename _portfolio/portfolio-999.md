@@ -1,9 +1,10 @@
 ---
-title: "The Inclusive STEM Teaching Project"
-excerpt: "Certificate earned November 30th, 2022<br/><img src='/images/InclusiveSTEMTeachingCert.png' width=500>"
+title: "Instructional Design Example"
+excerpt: "Project site launched March 8th, 2024<br/><img src='/images/instructional-design.gif' width=500>"
 collection: portfolio
 ---
 
-The [Inclusive STEM Teaching Project](https://www.inclusivestemteaching.org/) addresses identity, power, and critical race theory, aiming to equip educators with inclusive STEM teaching methods to reduce disparities, enhance student belonging and identity, and diversify the STEM workforce while improving retention for underrepresented minorities.
+Here is an example instructional design project created using [Articulate's Rise 360 online course authoring software](https://www.articulate.com/360/rise/).
+Please check out [the project website](https://kassstem.github.io/instructional-design/) to see more! You can also go to the [Github repository](https://github.com/KassSTEM/instructional-design) to learn how to host a similar project yourself.
 
-<img src='/images/InclusiveSTEMTeachingCert.png' width=500>
+<img src='/images/instructional-design.gif' width=500>
