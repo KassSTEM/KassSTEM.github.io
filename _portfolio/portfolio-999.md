@@ -1,6 +1,6 @@
 ---
 title: "Instructional Design Example"
-excerpt: "Project site launched March 8th, 2024<br/><img src='/images/instructional-design.gif' width=500>"
+excerpt: "Project site launched March 8th, 2024<br/><img src='/images/instructional-design.png' width=500>"
 collection: portfolio
 ---
 
