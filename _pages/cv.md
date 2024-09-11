@@ -62,4 +62,6 @@ Skills
   
 Service and Leadership
 ======
-* President of the [Policy Advocacy in Science and Engineering (PASE)](https://gator-pase-links.netlify.app/) student organization
+* Founding President of the [Policy Advocacy in Science and Engineering (PASE)](https://gator-pase-links.netlify.app/) student organization
+* Vice President of the [Engineering Education Graduate Student Council](https://www.eng.ufl.edu/eed/graduate-student-council/)
+* Strategy Consultant for the [Gator Major-4-Major Mentorship Program](https://www.linkedin.com/company/ufgm4m/)
