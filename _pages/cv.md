@@ -62,6 +62,6 @@ Skills
   
 Service and Leadership
 ======
-* Founding President of the [Policy Advocacy in Science and Engineering (PASE)](https://gator-pase-links.netlify.app/) student organization
-* Vice President of the [Engineering Education Graduate Student Council](https://www.eng.ufl.edu/eed/graduate-student-council/)
-* Strategy Consultant for the [Gator Major-4-Major Mentorship Program](https://www.linkedin.com/company/ufgm4m/)
+* January 2023 - Current: Founding President of the [Policy Advocacy in Science and Engineering (PASE)](https://gator-pase-links.netlify.app/) student organization
+* August 2024 - Current: Vice President of the [Engineering Education Graduate Student Council](https://www.eng.ufl.edu/eed/graduate-student-council/)
+* May 2024 - Current: Strategy Consultant for the [Gator Major-4-Major Mentorship Program](https://www.linkedin.com/company/ufgm4m/)
