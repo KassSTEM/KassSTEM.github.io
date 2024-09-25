@@ -7,8 +7,8 @@ main:
   - title: "Certificates"
     url: /certificates/
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Projects"
+    url: /projects/
 
   #- title: "Blog"
     #url: /year-archive/
