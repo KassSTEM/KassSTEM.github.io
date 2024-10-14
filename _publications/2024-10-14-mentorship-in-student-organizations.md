@@ -10,7 +10,7 @@ citation: 'Fernandez, K. & Ruzycki, N. (2024, October), <i>An Exploratory Study 
 ---
 This paper was presented at the 2024 FIE Conference in Washington, DC.
 
-If the link or the PDF viewer aren't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf) to download the paper from Github. You can also find the [presentation slides](https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/FIE_2024_Fernandez_and_Ruzycki_Slides.pdf) here.
+If the PDF viewer isn't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf) to download the paper from Github. You can also find the presentation slides below.
 
 <object data="/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf" width="1000" height="1000" type='application/pdf'></object>
 <p></p>
