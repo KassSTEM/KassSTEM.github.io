@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2024-10-14-mentorship-in-student-organizations
 excerpt: 'This research was presented at the 2024 FIE Conference in Washington, DC.'
 date: 2024-10-14
-venue: 'Frontiers in Education'
+venue: 'Frontiers in Education (FIE) Conference'
 paperurl: ''
 citation: 'Fernandez, K. & Ruzycki, N. (2024, October), <i>An Exploratory Study on Post-Secondary STEM Mentorship within Student Organizations</i>. Research presented at the 2024 FIE Conference in Washington, DC.'
 ---
