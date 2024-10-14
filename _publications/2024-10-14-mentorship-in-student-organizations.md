@@ -12,9 +12,9 @@ This paper was presented at the 2024 FIE Conference in Washington, DC.
 
 If the PDF viewer isn't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf) to download the paper from Github. You can also find the presentation slides below.
 
-<object data="/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object id=paper data="/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf" width="1000" height="1000" type='application/pdf'></object>
 <p></p>
 © 2024 IEEE. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses, in any current or future media, including reprinting/republishing this material for advertising or promotional purposes, creating new collective works, for resale or redistribution to servers or lists, or reuse of any copyrighted component of this work in other works.
 <p></p>
-<object data="/files/FIE_2024_Fernandez_and_Ruzycki_Slides.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object id=pptx data="/files/FIE_2024_Fernandez_and_Ruzycki_Slides.pdf" width="1000" height="1000" type='application/pdf'></object>
 
