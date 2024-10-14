@@ -20,8 +20,11 @@ Relevant Work Experience
 * August 2023 - Current: [Graduate Research Assistant](https://mse.ufl.edu/people/name/nancy-ruzycki/)
   * University of Florida
   * Supervisor: Dr. Nancy Ruzycki
-  * Conducts quantitative and qualitative research towards a better understanding of STEMM mentoring relationships
+  * Conducts quantitative and qualitative research towards a better understanding of STEMM mentoring relationships in various contexts
   * Published and presented a paper at the [ASEE 2024 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Portland, Oregon
+  * Published and presented a paper at the Frontiers in Education (FIE) 2024 Conference in Washington, DC
+  * Co-manages a small research team for a study
+  * Mentoring an undergraduate student
 
 * August 2022 - July 2023: [Graduate Research Assistant](https://riverajimenez.com/)
   * University of Florida
@@ -43,7 +46,7 @@ Relevant Work Experience
 
 * May 2019 - October 2020: [Science Teacher](https://kassstem.github.io/teaching/2019-homestead-senior-high-school)
   * Homestead Senior High School
-  * Taught 9-12th grade science (physical science, biology, research, etc.)
+  * Taught 9th-12th grade science (physical science, biology, research, etc.)
   
 Skills
 ======
