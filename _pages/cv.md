@@ -22,9 +22,9 @@ Relevant Work Experience
   * Supervisor: Dr. Nancy Ruzycki
   * Conducts quantitative and qualitative research towards a better understanding of STEMM mentoring relationships in various contexts
   * Published and presented a paper at the [ASEE 2024 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Portland, Oregon
-  * Published and presented a paper at the Frontiers in Education (FIE) 2024 Conference in Washington, DC
-  * Co-manages a small research team for a study
-  * Mentoring an undergraduate student
+  * Published and presented a paper at the [2024 Frontiers in Education (FIE) Conference](https://2024.fie-conference.org/) in Washington, DC
+  * Co-manages a team of research data analysts with one of the research scientists
+  * Mentors undergraduate students in the research laboratory
 
 * August 2022 - July 2023: [Graduate Research Assistant](https://riverajimenez.com/)
   * University of Florida
