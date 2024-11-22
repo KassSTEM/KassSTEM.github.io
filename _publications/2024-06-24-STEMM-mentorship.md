@@ -12,6 +12,6 @@ This paper was presented at the 2024 ASEE Annual Conference in Portland, Oregon.
 
 If the link or the PDF viewer aren't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/2b4fa8658a2acf599b99ac853f425f92e63280a2/files/examining-stemm-mentorship-within-student-organizations-in-higher-education-through-a-critical-lens.pdf) to download the paper from Github. There is also a helpful [one-pager](https://github.com/KassSTEM/KassSTEM.github.io/blob/73fe781853bec4a2d1d3393bd52673468708a41e/files/ASEE_2024_Fernandez_One-Pager.pdf) available.
 
-<object data="/files/examining-stemm-mentorship-within-student-organizations-in-higher-education-through-a-critical-lens.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object id=paper data="/files/examining-stemm-mentorship-within-student-organizations-in-higher-education-through-a-critical-lens.pdf" width="1000" height="1000" type='application/pdf'></object>
 <p></p>
-<object data="/files/ASEE_2024_Fernandez_One-Pager.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object id=op data="/files/ASEE_2024_Fernandez_One-Pager.pdf" width="1000" height="1000" type='application/pdf'></object>
