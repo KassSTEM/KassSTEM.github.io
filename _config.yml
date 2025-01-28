@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Kass Fernandez"
   pronouns         : "they/them"  
-  bio              : "Graduate Research Assistant at the University of Florida"
+  bio              : "Graduate Research Assistant"
+  employer         : "University of Florida"
   location         : "Gainesville, Florida"
-  employer         : 
   uri              : # URL
   email            : "kfernandez1@ufl.edu" 
 
