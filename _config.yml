@@ -10,6 +10,7 @@ locale                   : "en-US"
 title                    : "Kass Fernandez"
 title_separator          : "-"
 name                     : &name "Kass Fernandez"
+pronouns                 : "they/them"
 description              : &description "Graduate Research Assistant"
 url                      : https://KassSTEM.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -104,6 +105,7 @@ author:
   lastfm           :
   linkedin         : "kassfedz"
   orcid            : "https://orcid.org/0000-0003-1101-5219"
+  bluesky          : "KassSTEM"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
