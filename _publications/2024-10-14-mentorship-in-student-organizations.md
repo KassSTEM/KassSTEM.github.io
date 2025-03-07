@@ -6,7 +6,7 @@ excerpt: 'This research was presented at the 2024 FIE Conference in Washington, 
 date: 2024-10-14
 venue: 'Frontiers in Education (FIE) Conference'
 paperurl: 'https://doi.org/10.1109/FIE61694.2024.10893363'
-citation: 'Fernandez, K. & Ruzycki, N. (2024, October), <i>An Exploratory Study on Post-Secondary STEM Mentorship within Student Organizations</i>. Research presented at the 2024 FIE Conference in Washington, DC.'
+citation: 'Fernandez, K. & Ruzycki, N. (2024, October), <i>An Exploratory Study on Post-Secondary STEM Mentorship within Student Organizations</i>. Research presented at the 2024 FIE Conference in Washington, DC. DOI: 10.1109/FIE61694.2024.10893363'
 ---
 This paper was presented at the 2024 FIE Conference in Washington, DC.
 
