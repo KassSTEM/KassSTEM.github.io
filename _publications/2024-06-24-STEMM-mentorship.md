@@ -6,7 +6,7 @@ excerpt: 'This research was presented at the 2024 ASEE Annual Conference in Port
 date: 2024-06-24
 venue: 'American Society of Engineering Education'
 paperurl: 'https://doi.org/10.18260/1-2--47372'
-citation: 'Fernandez, K., Chisholm, K. D., & Ruzycki, N. (2024, June), <i>Examining STEMM Mentorship within Student Organizations in Higher Education through a Critical Lens</i>. Research presented at the 2024 ASEE Annual Conference in Portland, Oregon.'
+citation: 'Fernandez, K., Chisholm, K. D., & Ruzycki, N. (2024, June), <i>Examining STEMM Mentorship within Student Organizations in Higher Education through a Critical Lens</i>. Research presented at the 2024 ASEE Annual Conference in Portland, Oregon. DOI: 10.18260/1-2--47372'
 ---
 This paper was presented at the 2024 ASEE Annual Conference in Portland, Oregon.
 
