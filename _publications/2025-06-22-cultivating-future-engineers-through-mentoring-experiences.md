@@ -6,7 +6,7 @@ excerpt: 'This research was presented at the 2025 ASEE Annual Conference in Mont
 date: 2025-06-22
 venue: 'American Society of Engineering Education'
 paperurl: ''
-citation: 'Fernandez, K., Chisholm, K. D., & Ruzycki, N. (2025, June), <i>Examining STEMM Mentorship within Student Organizations in Higher Education through a Critical Lens</i>. Research presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
+citation: 'Fernandez, K., Chisholm, K. D., & Ruzycki, N. (2025, June), <i>Cultivating Future Engineers through Mentoring Experiences: Undergraduate Student Perceptions of Mentorship in an Educational STEM K-12 Summer Program</i>. Research presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 ---
 This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.
 
