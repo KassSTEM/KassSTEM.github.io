@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Engineering Education, University of Florida, 2027 (expected)
+* Ph.D in Engineering Education, University of Florida, 2026 (expected)
 * M.S. in Microbiology and Cell Science, University of Florida, 2020
 * B.S. in Biotechnology, Miami Dade College, 2017
 
@@ -20,20 +20,22 @@ Relevant Work Experience
 * August 2023 - Current: [Graduate Research Assistant](https://mse.ufl.edu/people/name/nancy-ruzycki/)
   * University of Florida
   * Supervisor: Dr. Nancy Ruzycki
-  * Conducts quantitative and qualitative research towards a better understanding of STEMM mentoring relationships in various contexts
-  * Published and presented a paper at the [ASEE 2024 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Portland, Oregon
-  * Published and presented a paper at the [2024 Frontiers in Education (FIE) Conference](https://2024.fie-conference.org/) in Washington, DC
-  * Co-manages a team of research data analysts with one of the research scientists
-  * Mentors undergraduate students in the research laboratory
+  * Conducts quantitative, qualitative, and mixed methods research towards a better understanding of STEMM mentoring relationships in various contexts
+  * Published and presented a [review paper on STEMM mentorship](https://kassstem.github.io/publications/2024-06-24-STEMM-mentorship) at the [ASEE 2024 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Portland, Oregon, USA
+  * Published and presented a [paper on STEM mentorship in student organizations](https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations) at the [2024 Frontiers in Education (FIE) Conference](https://2024.fie-conference.org/) in Washington, DC, USA
+  * Published and presented a [paper on undergraduate students mentoring K-12 students at a summer camp](https://kassstem.github.io/publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences) at the [ASEE 2025 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Montreal, Quebec, Canada
+  * Contributed to two papers, one on K-12 students and one on K-12 teachers, presented at the [ASEE 2025 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Montreal, Quebec, Canada
+  * Co-manages a team of research data analysts with one of the research scientists in the research laboratory
+  * Mentors several undergraduate students in the research laboratory
 
 * August 2022 - July 2023: [Graduate Research Assistant](https://riverajimenez.com/)
   * University of Florida
   * Supervisor: Dr. Sindia Rivera-Jimenez
   * Utilized both quantitative and qualitative research methods to address disparities in the field of engineering
-  * Published and presented two papers at the [ASEE 2023 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Baltimore, Maryland
+  * Published and presented two papers at the [ASEE 2023 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Baltimore, Maryland, USA
   * Mentored two undergraduate engineering students through the summer REU and SURF programs
   * Created and facilitated a summer workshop series for undergraduate engineering students
-  * Contributed to two papers presented at the [AIChE 2023 Annual Conference](https://www.aiche.org/proceedings/people/kassandra-fernandez) in Orlando, Florida
+  * Contributed to two papers presented at the [AIChE 2023 Annual Conference](https://www.aiche.org/proceedings/people/kassandra-fernandez) in Orlando, Florida, USA
 
 * May 2021 - May 2022: [Adjunct Professor](https://kassstem.github.io/teaching/2021-miami-dade-college)
   * Miami Dade College
@@ -55,9 +57,9 @@ Skills
   * Teaching and Lecturing
   * Educational Technology
 * Research
-  * Data Analysis
+  * Data Collection and Analysis
   * Project Management
-  * Public Speaking
+  * Science Communication
 * Teamwork
   * Leadership
   * Team Building and Management
