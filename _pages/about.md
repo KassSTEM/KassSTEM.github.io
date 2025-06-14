@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Kassandra Fernandez is a Graduate Research Assistant at the University of Florida in Gainesville, Florida, where they are pursuing their PhD in Engineering Education (EED). They graduated from Miami Dade College with a B.S. in Biological Sciences & from the University of Florida with an M.S. in Microbiology & Cell Science. 
+Kassandra (Kass) Fernandez is a Graduate Research Assistant at the University of Florida in Gainesville, Florida, where they are pursuing their PhD in Engineering Education (EED). They graduated from Miami Dade College with a B.S. in Biological Sciences & from the University of Florida with an M.S. in Microbiology & Cell Science. 
 
 Prior to pursuing their PhD, they worked as a science teacher at a Title I school in Homestead, Florida & as an adjunct professor of Microbiology at a Hispanic-serving community college in Miami, Florida. As an educator, they utilized equitable teaching practices & encouraged student agency to ensure positive learning outcomes. 
 
