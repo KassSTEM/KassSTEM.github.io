@@ -10,6 +10,6 @@ citation: 'Fernandez, K., & Rivera-Jiménez, S. M. (2023, June), <i>Social respo
 ---
 This paper was presented at the 2023 ASEE Annual Conference in Baltimore, Maryland.
 
-If the link or the PDF viewer aren't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/3ce828de5a3de7723414cb500c5a6a7a16993d5b/files/social-responsibility-views-in-science-and-engineering-an-exploratory-study-among-engineering-undergraduate-researchers.pdf) to download the paper from Github.
+If the link or the PDF viewer aren't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/a76d6a0232d57a664e8173c921728e4a1e43d289/files/social_responsibility_views_in_science_and_engineering_an_exploratory_study_among_engineering_undergraduate_researchers.pdf) to download the paper from Github.
 
-<object data="/files/social-responsibility-views-in-science-and-engineering-an-exploratory-study-among-engineering-undergraduate-researchers.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="/files/social_responsibility_views_in_science_and_engineering_an_exploratory_study_among_engineering_undergraduate_researchers.pdf" width="1000" height="1000" type='application/pdf'></object>
