@@ -24,7 +24,7 @@ Relevant Work Experience
   * Published and presented a [review paper on STEMM mentorship](https://kassstem.github.io/publications/2024-06-24-STEMM-mentorship) at the [ASEE 2024 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Portland, Oregon, USA
   * Published and presented a [paper on STEM mentorship in student organizations](https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations) at the [2024 Frontiers in Education (FIE) Conference](https://2024.fie-conference.org/) in Washington, DC, USA
   * Published and presented a [paper on undergraduate students mentoring K-12 students at a summer camp](https://kassstem.github.io/publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences) at the [ASEE 2025 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Montreal, Quebec, Canada
-  * Contributed to two papers, one on K-12 students and one on K-12 teachers, presented at the [ASEE 2025 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Montreal, Quebec, Canada
+  * Contributed to two papers, one on [K-12 students](https://kassstem.github.io/publications/2025-06-22-K-12_student_STEM_identity_development) and one on [K-12 teachers](https://kassstem.github.io/publications/2025-06-22-development_of_K-12_STEM_teacher_self-efficacy), presented at the [ASEE 2025 Conference and Exposition](https://peer.asee.org/authors/kassandra-fernandez) in Montreal, Quebec, Canada
   * Co-manages a team of research data analysts with one of the research scientists in the research laboratory
   * Mentors several undergraduate students in the research laboratory
 
