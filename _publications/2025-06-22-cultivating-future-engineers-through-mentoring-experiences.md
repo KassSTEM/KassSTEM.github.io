@@ -12,4 +12,4 @@ This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.
 
 If the link or the PDF viewer aren't working, you can [click here](https://github.com/KassSTEM/KassSTEM.github.io/blob/a76d6a0232d57a664e8173c921728e4a1e43d289/files/cultivating_future_engineers_through_mentoring_experiences.pdf) to download the paper from Github.
 
-<object id=paper data="/files/cultivating-future-engineers-through-mentoring-experiences.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object id=paper data="/files/cultivating_future_engineers_through_mentoring_experiences.pdf" width="1000" height="1000" type='application/pdf'></object>
