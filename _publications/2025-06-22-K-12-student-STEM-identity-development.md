@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2025-06-22-K-12-student-STEM-identity-development
 excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 date: 2025-06-22
-venue: 'American Society of Engineering Education'
+venue: 'American Society for Engineering Education'
 paperurl: ''
 citation: 'Chisholm, K. D., Kronsnoble, E., Fernandez, K., & Ruzycki, N. (2025, June), <i>K-12 Student STEM Identity Development through Participation in Goldberg Gator Engineering Explorers Summer Programs</i>. Paper presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 ---
