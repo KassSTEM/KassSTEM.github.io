@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences
 excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 date: 2025-06-22
-venue: 'American Society of Engineering Education'
+venue: 'American Society for Engineering Education'
 paperurl: ''
 citation: 'Fernandez, K., Chisholm, K. D., & Ruzycki, N. (2025, June), <i>Cultivating Future Engineers through Mentoring Experiences: Undergraduate Student Perceptions of Mentorship in an Educational STEM K-12 Summer Program</i>. Research presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 ---
