@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>{{ page.title }} | {{ site.title }}</title>
+  {% include head.html %}
+  <style>
+    /* Critical layout CSS */
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    
+    .bio-container {
+      max-width: 680px;
+      margin: 3rem auto;
+      padding: 2rem;
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+      min-height: calc(100vh - 6rem);
+    }
+    
+    .profile-header {
+      text-align: center;
+      padding: 1rem;
+    }
+    
+    header #gravatar-image {
+      width: 196px;
+      height: 196px;
+      border-radius: 50%;
+      margin-bottom: 1rem;
+    }
+    
+    .social-icons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 1rem;
+      margin-top: 1rem;
+    }
+    
+    .links-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+    }
+    
+    .link-button {
+      flex: 1 1 calc(33.333% - 1rem);
+      min-width: 200px;
+      max-width: 100%;
+      box-sizing: border-box;
+      text-align: center;
+    }
+    
+    @media (max-width: 768px) {
+      .bio-container {
+        max-width: calc(100vw - 3rem);
+        margin: 1.5rem;
+        padding: 1rem;
+        min-height: calc(100vh - 3rem);
+      }
+      
+      .profile-image {
+        width: 96px;
+        height: 96px;
+      }
+      
+      .links-grid {
+        flex-direction: column;
+      }
+      
+      .link-button {
+        flex: 1 1 100%;
+        min-width: 0;
+      }
+    }
+  </style>
+  <link rel="preload" href="styles/core.css" as="style">
+  <link id="core-stylesheet" rel="stylesheet" href="styles/core.css">
+  <!-- Theme stylesheet will be injected by styles.js -->
+  <script src="styles.js" defer></script>
+</head>
+<body>
+  <main class="bio-container" role="main">
+    <header class="profile-header" role="banner">
+      <img id="gravatar-image" alt="Kass Fernandez's profile image" class="hovercard" width="196" height="196" />	
+      <h1 id="profile-name" aria-label="Name"></h1>
+      <p id="profile-tagline" class="tagline" aria-label="Tagline"></p>
+      <nav class="social-icons" aria-label="Social media links">
+        <!-- Social icons will be dynamically inserted here -->
+      </nav>
+    </header>
+
+    <section class="bio" aria-label="Biography">
+      <!--h2>Bio</h2 -->
+      <p id="bio-text"><!-- Bio will be dynamically inserted here --></p>
+    </section>
+
+    <section id="link-section" class="link-section" aria-label="Quick links">
+      <!-- h2>Links</h2 -->
+      <div class="links-grid"><!-- Links will be dynamically inserted here --></div>
+    </section>
+
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </main>
+</body>
+</html>
