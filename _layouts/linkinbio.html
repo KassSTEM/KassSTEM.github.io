@@ -14,13 +14,14 @@ layout: compress
 .centered {
   max-width: 500px;
   margin: auto;
+  text-align: center;
 }
 </style>
 <body>
   <div class="centered">
     {% include author-profile-row.html %}
     {{ content }}
-    <footer>
+    <footer class="centered">
       {% include footer.html %}
     </footer>
   </div>
