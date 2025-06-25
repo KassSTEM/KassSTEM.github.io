@@ -4,17 +4,6 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<style>
-         ul {
-            list-style-type: none;
-            margin: 0;
-            padding: 0;
-         }
-         li {
-            border-bottom: 1px solid #555;
-            display: inline;
-         }
-</style>
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
@@ -51,9 +40,9 @@
   </div>
 </div>
       
-  <div class="author__urls-wrapper" style="display: inline">
+  <div class="author__urls-wrapper">
     <button class="btn btn--inverse"></button>
-    <ul class="author__urls social-icons">
+    <ul class="author__urls social-icons" style="display: inline">
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.academia %}
         <li><a href="{{ author.academia }}"><i class="ai ai-academia ai-fw icon-pad-right" aria-hidden="true"></i></a></li>
