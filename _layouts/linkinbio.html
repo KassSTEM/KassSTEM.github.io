@@ -19,11 +19,14 @@ layout: compress
 </style>
 <body>
   <div class="centered">
+    {% include browser-upgrade.html %}
+    {% include masthead.html %}
     {% include author-profile-row.html %}
+
     {{ content }}
-    <footer class="centered">
-      {% include footer.html %}
-    </footer>
   </div>
+  <footer class="centered">
+    {% include footer-alt.html %}
+  </footer>
 </body>
 </html>
