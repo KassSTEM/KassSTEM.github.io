@@ -11,16 +11,18 @@ layout: compress
   {% include head/custom.html %}
 </head>
 <style>
-.content {
+.centered {
   max-width: 500px;
   margin: auto;
 }
 </style>
 <body>
-  {% include author-profile-row.html %}
-  {{ content }}
-  <footer>
-    {% include footer.html %}
-  </footer>
+  <div class="centered">
+    {% include author-profile-row.html %}
+    {{ content }}
+    <footer>
+      {% include footer.html %}
+    </footer>
+  </div>
 </body>
 </html>
