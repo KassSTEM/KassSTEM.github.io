@@ -15,14 +15,14 @@
   </div>
 
   <div class="author__content">
-    <h3 class="author__name"><a href="{{ base_path }}">{{ author.name }}</a></h3>
+    <h3 class="author__name"></h3>
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
       
-  <div class="author__urls-wrapper">
+  <div class="author__urls-wrapper" style="display: inline">
     <button class="btn btn--inverse"></button>
-    <ul class="author__urls social-icons" style="display: inline">
+    <ul class="author__urls social-icons">
       <!-- Font Awesome and Academicons icons / Academic websites -->
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i></a></li>
