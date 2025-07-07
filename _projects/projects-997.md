@@ -2,6 +2,7 @@
 title: "Instructional Design (Interactive Demonstration)"
 excerpt: "Project site launched March 8th, 2024<br/><img src='/images/instructional-design.png' width=500>"
 collection: projects
+category: webdev
 ---
 
 Here is an interactive demonstration of an instructional design project created using [Articulate's Rise 360 online course authoring software](https://www.articulate.com/360/rise/).

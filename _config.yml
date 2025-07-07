@@ -75,6 +75,17 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+# Project Category - The following the list of project categories and their headings
+project_category:
+  dissertation:
+    title: 'PhD Dissertation'
+  research:
+    title: 'Research'      
+  personal:
+    title: 'Personal'    
+  webdev:
+    title: 'Web Development'
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
