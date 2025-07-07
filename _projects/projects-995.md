@@ -6,7 +6,7 @@ category: dissertation
 permalink: /projects/mentorship-matters
 ---
 
-To sign-up for this study, please complete the intake form here: https://go.ufl.edu/mentorshipmatters
+To sign-up for this study, please complete the intake form here: [https://go.ufl.edu/mentorshipmatters](https://go.ufl.edu/mentorshipmatters)
 
 Abstract
 ======
