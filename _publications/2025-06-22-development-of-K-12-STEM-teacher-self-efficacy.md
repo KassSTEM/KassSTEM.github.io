@@ -1,6 +1,7 @@
 ---
 title: "Development of K-12 STEM Teacher Self-Efficacy through Participation in Goldberg Gator Engineering Explorers Summer Programs"
 collection: publications
+category: conferences
 permalink: /publications/2025-06-22-development-of-K-12-STEM-teacher-self-efficacy
 excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 date: 2025-06-22

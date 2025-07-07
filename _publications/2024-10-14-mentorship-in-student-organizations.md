@@ -1,6 +1,7 @@
 ---
 title: "An Exploratory Study on Post-Secondary STEM Mentorship within Student Organizations"
 collection: publications
+category: conferences
 permalink: /publications/2024-10-14-mentorship-in-student-organizations
 excerpt: 'This paper was presented at the 2024 FIE Conference in Washington, DC.'
 date: 2024-10-14

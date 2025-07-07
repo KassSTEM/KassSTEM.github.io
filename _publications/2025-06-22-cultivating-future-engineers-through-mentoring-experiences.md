@@ -1,6 +1,7 @@
 ---
 title: "Cultivating Future Engineers through Mentoring Experiences: Undergraduate Student Perceptions of Mentorship in an Educational STEM K-12 Summer Program"
 collection: publications
+category: conferences
 permalink: /publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences
 excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 date: 2025-06-22

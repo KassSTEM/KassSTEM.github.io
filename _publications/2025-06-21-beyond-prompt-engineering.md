@@ -1,6 +1,7 @@
 ---
 title: "Beyond Prompt Engineering"
 collection: publications
+category: conferences
 permalink: /publications/2025-06-21-beyond-prompt-engineering
 excerpt: 'This workshop was presented at the 2025 ASEE PreK-12 Engineering Education Teacher Conference in Montreal, Canada.'
 date: 2025-06-21

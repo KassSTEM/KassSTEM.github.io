@@ -1,6 +1,7 @@
 ---
 title: "Exploring the Use of Natural Language Processing in Developing Problem-Based Learning Scenarios for Social Responsibility in the Curriculum"
 collection: publications
+category: conferences
 permalink: /publications/2023-11-08-social-responsibility-curriculum
 excerpt: 'This research was presented at the 2023 AIChE Annual Meeting in Orlando, Florida.'
 date: 2023-11-08

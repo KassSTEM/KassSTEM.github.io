@@ -1,6 +1,7 @@
 ---
 title: "Examining STEMM Mentorship within Student Organizations in Higher Education through a Critical Lens"
 collection: publications
+category: conferences
 permalink: /publications/2024-06-24-STEMM-mentorship
 excerpt: 'This research was presented at the 2024 ASEE Annual Conference in Portland, Oregon.'
 date: 2024-06-24

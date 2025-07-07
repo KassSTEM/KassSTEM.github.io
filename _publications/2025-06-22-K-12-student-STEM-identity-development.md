@@ -1,6 +1,7 @@
 ---
 title: "K-12 Student STEM Identity Development through Participation in Goldberg Gator Engineering Explorers Summer Programs"
 collection: publications
+category: conferences
 permalink: /publications/2025-06-22-K-12-student-STEM-identity-development
 excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montreal, Canada.'
 date: 2025-06-22

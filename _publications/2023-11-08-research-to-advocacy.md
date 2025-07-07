@@ -1,6 +1,7 @@
 ---
 title: "From Research to Advocacy: A Workshop to Develop the Next Generation of Socially Responsible Scientists and Engineers"
 collection: publications
+category: conferences
 permalink: /publications/2023-11-08-research-to-advocacy
 excerpt: 'This research was presented at the 2023 AIChE Annual Meeting in Orlando, Florida.'
 date: 2023-11-08
