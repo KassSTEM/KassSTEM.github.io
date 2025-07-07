@@ -75,6 +75,17 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
+# Certificate Category - The following the list of project categories and their headings
+certificate_category:
+  compsci:
+    title: 'Computer Science'
+  education:
+    title: 'Education'
+  scicomm:
+    title: 'Science Communication'      
+  scipol:
+    title: 'Science Policy'    
+
 # Project Category - The following the list of project categories and their headings
 project_category:
   dissertation:
