@@ -11,9 +11,9 @@ Abstract
 
 This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
 
-Recruitment Flyer
+One-Pager
 ======
-<object id=flyer data="/files/mentorship_matters_flyer.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
 <p></p>
 
 Recruitment Video
@@ -28,7 +28,7 @@ Recruitment Video
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGr3OUjqgA&#x2F;rr-J1gTxjvCO7aphnETZFw&#x2F;watch?utm_content=DAGr3OUjqgA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Mentorship Matters Promo Video</a> by Kass Fernandez
 
-One-Pager
+Recruitment Flyer
 ======
-<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object id=flyer data="/files/mentorship_matters_flyer.pdf" width="1000" height="1000" type="application/pdf"></object>
 <p></p>
