@@ -30,5 +30,5 @@ Recruitment Video
 
 One-Pager
 ======
-<object id=one-pager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
 <p></p>
