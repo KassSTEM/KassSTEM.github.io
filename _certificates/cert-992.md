@@ -1,6 +1,6 @@
 ---
 title: "SPARC: Science Policy and Advocacy for Research Competition"
-excerpt: "Certificate earned April 23rd, 2024 <br/><img src='/images/SPARC.png' width=500>"
+excerpt: "<img src='/images/SPARC.png' width=500>"
 collection: certificates
 category: scipol
 date: 2024-04-23

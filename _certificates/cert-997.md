@@ -1,6 +1,6 @@
 ---
 title: "Computer Science Education Microcredential"
-excerpt: "Certificate earned April 10th, 2023 <br/><img src='/images/cs-microcredential.png' width=500>"
+excerpt: "<img src='/images/cs-microcredential.png' width=500>"
 collection: certificates
 category: teaching
 date: 2023-04-10

@@ -1,6 +1,6 @@
 ---
 title: "Inclusive Engineering Fundamentals Microcredential"
-excerpt: "Certificate earned June 23rd, 2023 <br/><img src='/images/IEFCert.png' width=500>"
+excerpt: "<img src='/images/IEFCert.png' width=500>"
 collection: certificates
 category: leadership
 date: 2023-06-23

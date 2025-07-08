@@ -1,6 +1,6 @@
 ---
 title: "Inclusive Mentoring Academy in Graduate Education (IMAGE)"
-excerpt: "Certificate earned May 5th, 2023 <br/><img src='/images/IMAGECert.png' width=500>"
+excerpt: "<img src='/images/IMAGECert.png' width=500>"
 collection: certificates
 category: leadership
 date: 2023-05-05

@@ -1,6 +1,6 @@
 ---
 title: "Policy for Science, Technology and Innovation"
-excerpt: "Certificate earned August 26th, 2023 <br/><img src='/images/PSTICert.png' width=500>"
+excerpt: "<img src='/images/PSTICert.png' width=500>"
 collection: certificates
 category: scipol
 date: 2023-08-26

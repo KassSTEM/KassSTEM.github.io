@@ -1,6 +1,6 @@
 ---
 title: "The Inclusive STEM Teaching Project"
-excerpt: "Certificate earned November 30th, 2022<br/><img src='/images/InclusiveSTEMTeachingCert.png' width=500>"
+excerpt: "<img src='/images/InclusiveSTEMTeachingCert.png' width=500>"
 collection: certificates
 category: teaching
 date: 2022-11-30

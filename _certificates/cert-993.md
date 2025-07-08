@@ -1,6 +1,6 @@
 ---
 title: "Science Policy and Advocacy for STEM Scientists"
-excerpt: "Certificate earned September 19th, 2023 <br/><img src='/images/SciPolCert.png' width=500>"
+excerpt: "<img src='/images/SciPolCert.png' width=500>"
 collection: certificates
 category: scipol
 date: 2023-09-19

@@ -1,6 +1,6 @@
 ---
 title: "Diversity, Inclusion, and Belonging"
-excerpt: "Certificate earned January 23rd, 2023 <br/><img src='/images/DIBCert.png' width=500>"
+excerpt: "<img src='/images/DIBCert.png' width=500>"
 collection: certificates
 category: leadership
 date: 2023-01-23

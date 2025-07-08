@@ -1,6 +1,6 @@
 ---
 title: "NASA Open Science 101"
-excerpt: "Certificate earned December 9th, 2024 <br/><img src='/images/NASA.png' width=500>"
+excerpt: "<img src='/images/NASA.png' width=500>"
 collection: certificates
 category: scicomm
 date: 2024-12-09
