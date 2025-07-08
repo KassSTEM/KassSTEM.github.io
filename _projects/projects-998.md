@@ -1,6 +1,6 @@
 ---
 title: "LinkInBio Website for Policy Advocacy in Science and Engineering"
-excerpt: "Project site launched February 13th, 2024<br/><img src='/images/PASE-Links.png' width=500>"
+excerpt: "<img src='/images/PASE-Links.png' width=500>"
 collection: projects
 category: webdev
 date: 2024-02-13

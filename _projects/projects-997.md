@@ -1,6 +1,6 @@
 ---
 title: "Instructional Design (Interactive Demonstration)"
-excerpt: "Project site launched March 8th, 2024<br/><img src='/images/instructional-design.png' width=500>"
+excerpt: "<img src='/images/instructional-design.png' width=500>"
 collection: projects
 category: webdev
 date: 2024-03-08

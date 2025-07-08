@@ -1,6 +1,6 @@
 ---
 title: "Policy Advocacy in Science and Engineering Website"
-excerpt: "Project site launched August 23rd, 2023<br/><img src='/images/PASE.png' width=500>"
+excerpt: "<img src='/images/PASE.png' width=500>"
 collection: projects
 category: webdev
 date: 2023-08-23

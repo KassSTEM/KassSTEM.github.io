@@ -1,6 +1,6 @@
 ---
 title: "Personal LinkInBio Website"
-excerpt: "Project site launched October 13th, 2024<br/><img src='/images/KassSTEM-Links.png' width=500>"
+excerpt: "<img src='/images/KassSTEM-Links.png' width=500>"
 collection: projects
 category: webdev
 date: 2024-10-13
