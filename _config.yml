@@ -93,11 +93,13 @@ project_category:
   dissertation:
     title: 'PhD Dissertation'
   research:
-    title: 'Research'      
-  personal:
-    title: 'Personal'    
+    title: 'Research'         
+  instructdesign:
+    title: 'Instructional Design'    
   webdev:
     title: 'Web Development'
+  personal:
+    title: 'Personal'   
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
