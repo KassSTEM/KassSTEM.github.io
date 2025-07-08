@@ -79,12 +79,14 @@ author:
 certificate_category:
   compsci:
     title: 'Computer Science'
-  education:
-    title: 'Education'
+  leadership:
+    title: 'Leadership'
   scicomm:
     title: 'Science Communication'      
   scipol:
     title: 'Science Policy'    
+  teaching:
+    title: 'Teaching'
 
 # Project Category - The following the list of project categories and their headings
 project_category:

@@ -6,17 +6,12 @@ category: dissertation
 permalink: /projects/mentorship-matters
 ---
 
-To sign-up for this study, please complete the intake form here: [https://go.ufl.edu/mentorshipmatters](https://go.ufl.edu/mentorshipmatters)
+Interested in participating? Please complete the intake form here: [https://go.ufl.edu/mentorshipmatters](https://go.ufl.edu/mentorshipmatters)
 
 Abstract
 ======
 
 This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
-
-One-Pager
-======
-<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
-<p></p>
 
 Recruitment Video
 ======
@@ -33,4 +28,9 @@ Recruitment Video
 Recruitment Flyer
 ======
 <object id=flyer data="/files/mentorship_matters_flyer.pdf" width="1000" height="1000" type="application/pdf"></object>
+<p></p>
+
+One-Pager
+======
+<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
 <p></p>
