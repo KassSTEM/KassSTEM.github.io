@@ -1,5 +1,5 @@
 ---
-title: "Instructional Design (Interactive Demonstration)"
+title: "Biomedical Engineering and Physiology I (Interactive Course Website Demonstration)"
 excerpt: "<img src='/images/instructional-design.png' width=500>"
 collection: projects
 category: instructdesign
