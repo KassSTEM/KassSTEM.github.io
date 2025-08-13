@@ -7,7 +7,7 @@ excerpt: 'This workshop was presented at the 2025 ASEE PreK-12 Engineering Educa
 date: 2025-06-21
 venue: 'American Society for Engineering Education'
 paperurl: ''
-citation: 'Ruzycki, N., Chisholm, K. D., & Fernandez, K. (2025, June), <i>Beyond Promnpt Engineering</i>. Workshop presented at the 2025 ASEE PreK-12 Engineering Education Teacher in Montreal, Canada.'
+citation: 'Ruzycki, N., Chisholm, K. D., & Fernandez, K. (2025, June), <i>Beyond Prompt Engineering</i>. Workshop presented at the 2025 ASEE PreK-12 Engineering Education Teacher in Montreal, Canada.'
 ---
 
 Workshop Description
