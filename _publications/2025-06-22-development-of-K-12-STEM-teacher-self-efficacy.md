@@ -7,7 +7,7 @@ excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montrea
 date: 2025-06-22
 venue: 'American Society for Engineering Education'
 paperurl: 'https://doi.org/10.18260/1-2--56289'
-citation: 'Chisholm, K. D., Langham, S. L., Fernandez, K., & Ruzycki, N. (2025, June), <i>Development of K-12 STEM Teacher Self-Efficacy through Participation in Goldberg Gator Engineering Explorers Summer Programs</i>. Paper presented at the 2025 ASEE Annual Conference in Montreal, Canada. https://doi.org/10.18260/1-2--56289'
+citation: 'Chisholm, K. D., Langham, S. L., Fernandez, K., & Ruzycki, N. (2025, June), <i>Development of K-12 STEM Teacher Self-Efficacy through Participation in Goldberg Gator Engineering Explorers Summer Programs</i>. Paper presented at the 2025 ASEE Annual Conference in Montreal, Canada. DOI: 10.18260/1-2--56289'
 ---
 
 Abstract
