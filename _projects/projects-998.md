@@ -6,6 +6,6 @@ category: webdev
 date: 2024-02-13
 ---
 
-I created and maintain a project site that hosts all of PASE's links, similar to a LinkInBio. You can visit this website by [clicking here](https://gator-pase-links.netlify.app/).
+I created and maintain a project site that hosts all of PASE's links, similar to a LinkInBio. You can visit this website by [clicking here](https://gator-pase.github.io/linkinbio/).
 
 <img src='/images/PASE-Links.png' width=500>
