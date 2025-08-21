@@ -7,7 +7,7 @@ excerpt: 'This paper was presented at the 2025 ASEE Annual Conference in Montrea
 date: 2025-06-22
 venue: 'American Society for Engineering Education'
 paperurl: 'https://doi.org/10.18260/1-2--56903'
-citation: 'Chisholm, K. D., Kronsnoble, E., Fernandez, K., & Ruzycki, N. (2025, June), <i>K-12 Student STEM Identity Development through Participation in Goldberg Gator Engineering Explorers Summer Programs</i>. Paper presented at the 2025 ASEE Annual Conference in Montreal, Canada. https://doi.org/10.18260/1-2--56903'
+citation: 'Chisholm, K. D., Kronsnoble, E., Fernandez, K., & Ruzycki, N. (2025, June), <i>K-12 Student STEM Identity Development through Participation in Goldberg Gator Engineering Explorers Summer Programs</i>. Paper presented at the 2025 ASEE Annual Conference in Montreal, Canada. DOI: 10.18260/1-2--56903'
 ---
 
 Abstract
