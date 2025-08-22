@@ -38,7 +38,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-1101-5219"
   semantic         : # URL
   pubmed           : # URL
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Kassandra-Fernandez-3"
   scopus           : # URL
 
   # Repositories and software development
@@ -75,7 +75,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Certificate Category - The following the list of project categories and their headings
+# Certificate Category - The following defines the list of project categories and their headings
 certificate_category:
   compsci:
     title: 'Computer Science'
@@ -88,7 +88,7 @@ certificate_category:
   teaching:
     title: 'Teaching'
 
-# Project Category - The following the list of project categories and their headings
+# Project Category - The following defines the list of project categories and their headings
 project_category:
   dissertation:
     title: 'PhD Dissertation'
@@ -101,7 +101,7 @@ project_category:
   personal:
     title: 'Personal'   
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following defines the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
