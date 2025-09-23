@@ -1,37 +1,14 @@
 ---
-title: "Mentorship Matters: Development of a Framework of Mentoring Activities that Impact STEM Undergraduate Student Professional Formation"
-excerpt: "Recruitment material for my PhD dissertation research study"
+title: "Scientist Network for Advancing Policy (SNAP) Coalition Website"
+excerpt: "<img src='/images/SNAP.png' width=500>"
 collection: projects
-category: dissertation
-date: 2025-07-07
-permalink: /projects/mentorship-matters
+category: webdev
+date: 2025-06-09
+permalink: /projects/snapcoalition
 ---
 
-Interested in participating? Please complete the intake form here: [https://go.ufl.edu/mentorshipmatters](https://go.ufl.edu/mentorshipmatters)
+SNAP is a coalition of early-career scientists dedicated to mobilizing for large-scale initiatives and bridging gaps between scientists, their communities, and the general public. Our mission is to inspire and engage fellow scientists by establishing a peer network, developing and sharing resources, and instigating meaningful change. 
 
-Abstract
-======
+I created and maintain SNAP's website, which you can visit by [clicking here](https://snapcoalition.org/).
 
-This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
-
-Recruitment Video
-======
-
-<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https://www.canva.com/design/DAGr3OUjqgA/rr-J1gTxjvCO7aphnETZFw/watch?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGr3OUjqgA&#x2F;rr-J1gTxjvCO7aphnETZFw&#x2F;watch?utm_content=DAGr3OUjqgA&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Mentorship Matters Promo Video</a> by Kass Fernandez
-
-Recruitment Flyer
-======
-<object id=flyer data="/files/mentorship_matters_flyer.pdf" width="1000" height="1000" type="application/pdf"></object>
-<p></p>
-
-One-Pager
-======
-<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
-<p></p>
+<img src='/images/SNAP.png' width=500>
