@@ -1,6 +1,6 @@
 ---
 title: "Mentorship Matters: Development of a Framework of Mentoring Activities that Impact STEM Undergraduate Student Professional Formation"
-excerpt: "Recruitment material for my PhD dissertation research study"
+excerpt: "<img src='/images/mentorship_matters_flyer.png' width=500>"
 collection: projects
 category: dissertation
 date: 2025-07-07
