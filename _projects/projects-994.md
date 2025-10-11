@@ -1,6 +1,6 @@
 ---
 title: "Mentorship Matters: Development of a Framework of Mentoring Activities that Impact STEM Undergraduate Student Professional Formation"
-excerpt: "<img src='/images/mentorship_matters_flyer.png' width=500>"
+excerpt: "<img src='/images/mentorship_matters_banner.png' width=500>"
 collection: projects
 category: dissertation
 date: 2025-07-07
@@ -12,7 +12,7 @@ Interested in participating? Please complete the intake form here: [https://go.u
 Abstract
 ======
 
-This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
+This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM (Science, Technology, Engineering, and Mathematics) undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
 
 Recruitment Video
 ======
@@ -28,10 +28,5 @@ Recruitment Video
 
 Recruitment Flyer
 ======
-<img src='/images/mentorship_matters_flyer.png' width=1000>
-<p></p>
-
-One-Pager
-======
-<object id=onepager data="/files/mentorship_matters_one-pager.pdf" width="1000" height="1000" type="application/pdf"></object>
+<object id=flyer data="/files/mentorship_matters_flyer.pdf" width="1000" height="1000" type="application/pdf"></object>
 <p></p>
