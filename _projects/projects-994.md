@@ -14,6 +14,11 @@ Abstract
 
 This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM (Science, Technology, Engineering, and Mathematics) undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
 
+Social Media Posts
+======
+
+Want to help expand my reach? Repost my recruitment flyer on [BlueSky](https://bsky.app/profile/kassstem.bsky.social/post/3m2z2ryt3lc25) and [LinkedIn](https://www.linkedin.com/posts/activity-7382876848650739712-xrW5?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjO3BABAgHTfvr9vwg3ODknvfa1UBv8enI).
+
 Recruitment Video
 ======
 
