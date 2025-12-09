@@ -1,5 +1,5 @@
 ---
-title: "Mentorship Matters: Development of a Framework of Mentoring Activities that Impact STEM Undergraduate Student Professional Formation"
+title: "Mentorship Matters: Development of a Conceptual Framework of Effective Mentoring Activities"
 excerpt: "<img src='/images/mentorship_matters_banner.png' width=500>"
 collection: projects
 category: dissertation
