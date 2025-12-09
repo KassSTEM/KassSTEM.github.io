@@ -9,10 +9,13 @@ permalink: /projects/mentorship-matters
 
 Interested in participating? Please complete the intake form here: [https://go.ufl.edu/mentorshipmatters](https://go.ufl.edu/mentorshipmatters)
 
-Abstract
-======
+# Overview
 
-This study seeks to investigate how engagement in peer or near-peer mentorship impacts STEM (Science, Technology, Engineering, and Mathematics) undergraduate student professional formation in terms of STEM identity construction and professional development. Towards that end, this study will identify and characterize the mentoring activities associated with effective mentoring relationships and the factors that may influence perceived mentoring effectiveness for the relational partners. Findings will assist in the development of a conceptual framework of effective mentoring activities for STEM identity construction and professional development.
+My name is Kass Fernandez and I am a fourth-year Engineering Education PhD student at the University of Florida. My PI, Dr. Nancy Ruzycki, and I invite STEM undergraduate students in the US to participate in my dissertation study, “Mentorship Matters: Development of a Conceptual Framework of Effective Mentoring Activities”! Keep reading to learn more.
+
+This study seeks to develop a comprehensive conceptual framework of effective mentoring activities that promote the professional formation of STEM undergraduate students through STEM identity construction or professional development growth across varying types of mentorship and mentoring relationships. This will allow researchers to conduct comparative analysis across mentorship programs and assist practitioners in the creation, evaluation, and improvement of effective mentorship programs.
+
+Participants will complete three brief Qualtrics surveys throughout their mentoring experience (10-15 minutes each) and complete one Zoom interview after their mentoring experience (30-45 minutes). Every participant that completes all three surveys will be entered into a \$25 gift card drawing. Participants that also complete the interview will be entered again into the drawing, doubling their chances of winning. Participants must be undergraduate students pursuing STEM degrees in the United States involved in mentorship and aged 18 or older.dy is IRB exempt (protocol #ET00047319). Feel free to reach out to me, Kass Fernandez, at kfernandez1\@ufl.edu or Dr. Nancy Ruzycki at nruzycki\@mse.ufl.edu with any questions, comments, or concerns.
 
 Social Media Posts
 ======
