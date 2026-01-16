@@ -11,7 +11,7 @@ Interested in participating? Please complete the intake form here: [https://go.u
 
 # Overview
 
-My name is Kass Fernandez and I am a fourth-year Engineering Education PhD student at the University of Florida. My PI, Dr. Nancy Ruzycki, and I invite STEM undergraduate students in the US to participate in my dissertation study, “Mentorship Matters: Development of a Conceptual Framework of Effective Mentoring Activities”! Keep reading to learn more.
+My name is Kass Fernandez and I am a PhD candidate in Engineering Education at the University of Florida. My PI, Dr. Nancy Ruzycki, and I invite STEM undergraduate students in the US to participate in my dissertation study, “Mentorship Matters: Development of a Conceptual Framework of Effective Mentoring Activities”! Keep reading to learn more.
 
 This study seeks to develop a comprehensive conceptual framework of effective mentoring activities that promote the professional formation of STEM undergraduate students through STEM identity construction or professional development growth across varying types of mentorship and mentoring relationships. This will allow researchers to conduct comparative analysis across mentorship programs and assist practitioners in the creation, evaluation, and improvement of effective mentorship programs.
 
@@ -20,7 +20,7 @@ Participants will complete three brief Qualtrics surveys throughout their mentor
 Social Media Posts
 ======
 
-Want to help expand my reach? Repost my recruitment flyer on [BlueSky](https://bsky.app/profile/kassstem.bsky.social/post/3m2z2ryt3lc25) and [LinkedIn](https://www.linkedin.com/posts/activity-7382876848650739712-xrW5?utm_source=share&utm_medium=member_desktop&rcm=ACoAABjO3BABAgHTfvr9vwg3ODknvfa1UBv8enI).
+Want to help expand my reach? Repost my recruitment flyer on [BlueSky](https://bsky.app/profile/kassstem.bsky.social/post/3m2z2ryt3lc25) and [LinkedIn](https://www.linkedin.com/posts/activity-7417672052611923969-1VwY).
 
 Recruitment Video
 ======
