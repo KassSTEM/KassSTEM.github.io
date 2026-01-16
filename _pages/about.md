@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Kassandra (Kass) Fernandez is a PhD candidate in Engineering Education at the University of Florida. They earned their M.S. in Microbiology & Cell Science at the University of Florida & their B.S. in Biological Sciences at Miami Dade College. Previously, they worked as a high school science teacher at a TItle I school & as an adjunct professor of microbiology at a community college.
+Kassandra (Kass) Fernandez is a PhD candidate in Engineering Education at the University of Florida. They earned their M.S. in Microbiology & Cell Science at the University of Florida & their B.S. in Biological Sciences at Miami Dade College. Previously, they worked as a high school science teacher at a Title I school & as an adjunct professor of microbiology at a community college.
 
 They are currently recruiting participants for their dissertation study, "[Mentorship Matters: Development of a Conceptual Framework of Effective Mentoring Activities](https://kassstem.github.io/projects/mentorship-matters)". STEM undergraduate students in the US aged 18 or older who are engaged in mentorship are invited to [complete the intake form](https://go.ufl.edu/mentorshipmatters).
 
