@@ -20,7 +20,7 @@ Participants will complete three brief Qualtrics surveys throughout their mentor
 Social Media Posts
 ======
 
-Want to help expand my reach? Repost my recruitment flyer on [BlueSky](https://bsky.app/profile/kassstem.bsky.social/post/3m2z2ryt3lc25) and [LinkedIn](https://www.linkedin.com/posts/activity-7417672052611923969-1VwY).
+Want to help expand my reach? Repost my recruitment flyer on [BlueSky](https://bsky.app/profile/kassstem.com/post/3m2z2ryt3lc25) and [LinkedIn](https://www.linkedin.com/posts/activity-7417672052611923969-1VwY).
 
 Recruitment Video
 ======
